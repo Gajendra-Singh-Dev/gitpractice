@@ -5,6 +5,7 @@ public class Student {
     public void display() {
         System.out.println("My name is Gajendra");
         System.out.println("I am learning Java Full Stack");
+        System.out.println("I am learning Java Full Stack with Git");
     }
 
     public static void main(String[] args) {
